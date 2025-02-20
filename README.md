@@ -1,29 +1,30 @@
-# Projeto Agenda Django
+# Django Contact Agenda Project
 
-Este é um projeto de uma aplicação web de agenda de contatos desenvolvida com Django.
+This is a web application project for a contact agenda developed with Django.
 
-## Funcionalidades
+## Hosted Site
 
-- Cadastro de usuários
-- Login e logout de usuários
-- CRUD de contatos (criação, leitura, atualização e exclusão)
-- Pesquisa de contatos
-- Paginação de contatos
-- Upload de imagens para os contatos
+Access the application at [Agenda](https://agendaotaviossousa.pythonanywhere.com)
 
-## Estrutura do Projeto
+## Features
 
-- `base_static/`: Arquivos estáticos globais (CSS, JS, imagens)
-- `base_templates/`: Templates HTML globais
-- `contact/`: Aplicação principal com modelos, views, forms e templates específicos
-- `core/`: Configurações e URLs do projeto
-- `media/`: Diretório para upload de arquivos
-- `static/`: Diretório para arquivos estáticos coletados
-- `utils/`: Scripts utilitários
+- User registration
+- User login and logout
+- Contact CRUD (create, read, update, and delete)
+- Contact search
+- Contact pagination
+- Upload images for contacts
 
-## Site Hospedado
-Acesse a aplicação em  [Agenda](https://agendaotaviossousa.pythonanywhere.com)
+## Project Structure
 
-## Scripts Utilitários
+- `base_static/`: Global static files (CSS, JS, images)
+- `base_templates/`: Global HTML templates
+- `contact/`: Main application with specific models, views, forms, and templates
+- `core/`: Project settings and URLs
+- `media/`: Directory for file uploads
+- `static/`: Directory for collected static files
+- `utils/`: Utility scripts
 
-- `utils/create_contacts.py`: Cria contatos aleatórios para teste
+## Utility Scripts
+
+- `utils/create_contacts.py`: Creates random contacts for testing
