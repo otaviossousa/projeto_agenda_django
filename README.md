@@ -22,7 +22,7 @@ Este é um projeto de uma aplicação web de agenda de contatos desenvolvida com
 - `utils/`: Scripts utilitários
 
 ## Site Hospedado
-Acesse a aplicação em `https://agendaotaviossousa.pythonanywhere.com/`.
+Acesse a aplicação em  [Agenda](https://agendaotaviossousa.pythonanywhere.com)
 
 ## Scripts Utilitários
 
